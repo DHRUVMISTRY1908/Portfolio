@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dhruvportfolio/static/css/main.55bb5543.css",
+    "main.js": "/dhruvportfolio/static/js/main.50c82b7f.js",
+    "static/media/hash.png": "/dhruvportfolio/static/media/hash.55b6bf423caf707e3bed.png",
+    "static/media/portfolio5.png": "/dhruvportfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/image.jpeg": "/dhruvportfolio/static/media/image.fd1a6b5c386dbf0ebec0.jpeg",
+    "static/media/Resume-Dhruv-Mistry.pdf": "/dhruvportfolio/static/media/Resume-Dhruv-Mistry.758ef989280a95b7ac58.pdf",
+    "static/media/portfolio2.jpg": "/dhruvportfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/dhruvportfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/dhruvportfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/dhruvportfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/dhruvportfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/dhruvportfolio/index.html",
+    "main.55bb5543.css.map": "/dhruvportfolio/static/css/main.55bb5543.css.map",
+    "main.50c82b7f.js.map": "/dhruvportfolio/static/js/main.50c82b7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55bb5543.css",
+    "static/js/main.50c82b7f.js"
+  ]
+}
