@@ -1,7 +1,5 @@
 # My Portfolio Website
 
-![Portfolio Website Screenshot](screenshot.png)
-
 ## Welcome to My Portfolio!
 
 Welcome to my personal portfolio website! This is a space where I showcase my journey as a web developer and share the projects I've worked on, the skills I've honed, and the experiences that have shaped me in the world of web developmentand AI-ML.
